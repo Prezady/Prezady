@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligence+(ECO)Systems;STEM+Professional" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligence+(ECO)Systems;A+STEM+Professional" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/STEM-Professional-9B59B6?style=for-the-badge&logo=atom&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/STEM-9B59B6?style=for-the-badge&logo=atom&logoColor=white" /></a>
 </p>
 
 ---
@@ -91,24 +91,15 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 
 ---
 
-### 📈 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-*(Configure com [WakaTime](https://wakatime.com/) para ver estatísticas ao vivo.)*
-
----
-
 ### 📜 Experience & Education Highlights
 
-- **BMS Operations Technician & Python Developer** (Abr 2023 – Presente)  
+- **BMS Operations Technician & Python Developer** (Abr 2023 – 2026)  
   Desenvolvi plataforma interna de analytics, automatizei relatórios (redução de 32% no tempo), implementei detecção de falhas com ML (diagnósticos 3x mais rápidos) e integrei sistemas IoT/BMS.
 
 - **Formação**  
-  - Inteligência Artificial – Gran Faculdade (2026‑2028)  
-  - Técnico em Mecatrônica – ETEC Basilides de Godoy (projeto de drone térmico)  
-  - Deep Learning, Ethical Hacking, Python, HTML/CSS/JS – diversos cursos (mais de 400 horas)
+  - Artificial Intelligence – Gran Faculdade (2026‑2028)  
+  - Mechatronics Technician – ETEC Basilides de Godoy (thermal drone project)  
+  - Artificial Intelligence,Deep Learning, Python, SQL, HTML/CSS/JS – diversos cursos (mais de 400 horas somadas)
 
 ---
 
