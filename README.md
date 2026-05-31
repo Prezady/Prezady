@@ -1,24 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Enthusiast;Intelligent+(ECO)Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Specialist;Intelligent+Systems+Integration" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[seu-linkedin]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[seu-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
+  <a href="https://linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://seusite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Python developer focused on building intelligent systems that integrate **AI**, **AIoT**, and **web automation**.  
-I transform raw data into actionable insights, craft automation pipelines, and deploy lightweight AI solutions with tools like Hugging Face and Streamlit.
+Python developer focused on building **intelligent**, **automated**, and **scalable** solutions. I bring together **AI**, **AIoT**, and **web automation** to deliver end-to-end platforms – from data collection to machine learning models and autonomous systems.
 
-- 🔭 Currently working on: AI‑driven IoT projects & smart integrations  
-- 🌱 Deepening knowledge: Artificial Intelligence, embedded AI, ETL pipelines  
-- 💬 Ask me about: Python, web scraping, process automation, and rapid prototyping  
-- ⚡ Fun fact: I like to experiment with hardware and code in my spare time  
+- 🔭 Currently working on: AI‑driven IoT analytics and smart building platforms  
+- 🌱 Deepening knowledge: Artificial Intelligence, embedded systems, and advanced ETL pipelines  
+- 💬 Ask me about: Python, web scraping, process automation, Streamlit dashboards, and integrating AI with real-time data  
+- ⚡ Techniques: **AI‑Jail** (AI sandboxing & controlled execution environments), **Intelligence Cycle** (OSINT, GEOINT, cyber threat intelligence)  
+- 🎯 Passionate about transforming raw data into actionable insights and reducing operational risks through real‑time predictive analytics.
 
 ---
 
@@ -28,32 +28,48 @@ I transform raw data into actionable insights, craft automation pipelines, and d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Libraries & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
+#### AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1E8CAB?style=for-the-badge&logo=chatbot&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+#### Frameworks & Libraries
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-006600?style=for-the-badge&logo=python&logoColor=white)
 ![Asyncio](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### Databases & Persistence
+#### Databases & ETL
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-8A2BE2?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-#### Tools & Platforms
+#### Tools, Platforms & IoT
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prezady&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prezady&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prezady&layout=compact&theme=tokyonight" />
 </p>
 
@@ -63,25 +79,27 @@ I transform raw data into actionable insights, craft automation pipelines, and d
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prezady/Prezady/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prezady/Prezady/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prezady/Prezady/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
-> ⚙️ To generate the snake, add the [GitHub Actions workflow](https://github.com/Platane/snk) below to your repository.
+> ⚙️ **To activate the snake:**  
+> 1. Add the [snake workflow](https://github.com/Platane/snk) to `.github/workflows/snake.yml` in your profile repository.  
+> 2. Run it manually once from the **Actions** tab.  
+> 3. Enable **GitHub Pages** on branch `output` (root). The animation will appear above automatically.
 
 ---
 
 ### 🚀 Featured Projects
 
-*A selection of repositories that reflect my current focus.*
-
 | Project | Description | Tech |
 |--------|-------------|------|
-| [project-1](https://github.com/[YourUsername]/project-1) | AI‑powered web scraper with Streamlit dashboard | Python, Streamlit, BeautifulSoup |
-| [project-2](https://github.com/[YourUsername]/project-2) | Smart IoT data logger + Hugging Face analysis | Python, MQTT, Hugging Face |
-| [project-3](https://github.com/[YourUsername]/project-3) | Asynchronous ETL pipeline with SQLite/MySQL | Python, Asyncio, SQL |
+| [EVT-Analytica](https://github.com/Prezady/evt-analytica) | Internal analytics platform for smart buildings – dashboards, KPI monitoring, predictive alarms | Python, Streamlit, Flask, SQL, Hugging Face |
+| [IoT-Data-Pipeline](https://github.com/Prezady/iot-pipeline) | ETL pipeline ingesting sensor data, applying ML anomaly detection, storing in MySQL | Python, Asyncio, TensorFlow, MySQL |
+| [JailBox-AI](https://github.com/Prezady/jailbox-ai) | Sandbox environment for safely testing and evaluating AI models (AI‑Jail concept) | Python, Docker, OpenAI API |
+| [Intelligence-Cycle-Tools](https://github.com/Prezady/intel-cycle) | Collection of OSINT/GEOINT helpers for the intelligence cycle | Python, BeautifulSoup, APIs |
 
 ---
 
@@ -90,13 +108,25 @@ I transform raw data into actionable insights, craft automation pipelines, and d
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-*(Integrate with [wakatime](https://wakatime.com/) to display real coding activity.)*
+*(Set up with [WakaTime](https://wakatime.com/) and paste your badge URL here to show live coding stats.)*
+
+---
+
+### 📜 Experience & Education Highlights
+
+- **BMS Operations Technician & Python Developer** (Apr 2023 – Present)  
+  Developed internal analytics platform, automated reporting (32% time reduction), deployed ML-driven fault prediction (3x faster diagnostics), and integrated IoT/BMS systems.
+
+- **Education**  
+  - Artificial Intelligence – Gran Faculdade (2026‑2028)  
+  - Mechatronics Technician – ETEC Basilides de Godoy (thermal drone project)  
+  - Deep Learning, Ethical Hacking, Python, HTML/CSS/JS – multiple courses (400+ hours)
 
 ---
 
 ### 💡 Let's Connect!
 
-I'm always open to collaborating on interesting projects involving AI, IoT, or automation.  
-Reach me at **[seu-email]** or message me on [LinkedIn](https://linkedin.com/in/[seu-linkedin]).
+I’m open to collaborating on **AI, IoT, automation** or **cybersecurity‑related** projects.  
+Reach me at **[seu-email]** or connect on [LinkedIn](https://linkedin.com/in/seulinkedin).
 
 ---
