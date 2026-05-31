@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Specialist;Intelligent+Systems+Integration" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligent+(ECO)Systems" alt="Typing SVG" />
+  </a>
 </h1>
 
 <p align="center">
