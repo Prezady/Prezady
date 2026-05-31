@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligent+(ECO)Systems;STEM+Professional" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligence+(ECO)Systems;STEM+Professional" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-Python developer focused on building **intelligent**, **automated**, and **scalable** solutions. I bring together **AI**, **AIoT**, and **web automation** to deliver end-to-end platforms – from data collection to machine learning models and autonomous systems.
+Python developer focused on building **intelligence**, **automated**, and **scalable** solutions. I bring together **AI**, **AIoT**, and **web automation** to deliver end-to-end platforms – from data collection to machine learning models and autonomous systems.
 
 - 🔭 Currently working on: AI‑driven IoT analytics and smart building platforms  
 - 🌱 Deepening knowledge: Artificial Intelligence, embedded systems, and advanced ETL pipelines  
@@ -66,14 +66,7 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prezady&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prezady&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
