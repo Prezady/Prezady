@@ -1,18 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligence+(ECO)Systems;A+STEM+Professional;I+use+arch+btw" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=999999,CCCCCC,777777,555555&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligence+(ECO)Systems;A+STEM+Professional;I+use+arch+btw" alt="Typing SVG" />
   </a>
 </h1>
 
-
-
 <p align="center">
-  <a href="https://linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
+  <a href="https://linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="filter: grayscale(1);" /></a>
+  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="filter: grayscale(1);" /></a>
 </p>
-
-
 
 ---
 
@@ -42,6 +37,7 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-536DFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1E8CAB?style=for-the-badge&logo=chatbot&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -95,9 +91,9 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 <div align="center">
 
   <!-- ANALYTICA -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #FF6B6B; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #888888; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
     <h3 style="margin: 0 0 8px 0;">
-      <a href="https://github.com/Prezady/analytica" style="color: #FF6B6B; text-decoration: none;">✨ ANALYTICA</a>
+      <a href="https://github.com/Prezady/analytica" style="color: #DDDDDD; text-decoration: none;">✨ ANALYTICA</a>
     </h3>
     <p style="color: #8b949e; margin: 0 0 12px 0;">Plataforma web interna para gestão predial (BMS) – dashboards, machine learning, motor de busca, ETL de sensores e democratização dos dados.</p>
     <p style="margin: 0;">
@@ -110,9 +106,9 @@ Python developer focused on building **intelligent**, **automated**, and **scala
   </div>
 
   <!-- NOVAKAR -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #4ECDC4; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #AAAAAA; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
     <h3 style="margin: 0 0 8px 0;">
-      <a href="https://github.com/Prezady/NovaKar" style="color: #4ECDC4; text-decoration: none;">✨ NOVAKAR</a>
+      <a href="https://github.com/Prezady/NovaKar" style="color: #CCCCCC; text-decoration: none;">✨ NOVAKAR</a>
     </h3>
     <p style="color: #8b949e; margin: 0 0 12px 0;">ERP local para concessionárias – controle de estoque, valores, histórico completo dos veículos, documentações e gestão de vendas.</p>
     <p style="margin: 0;">
@@ -124,9 +120,9 @@ Python developer focused on building **intelligent**, **automated**, and **scala
   </div>
 
   <!-- AI-JAIL-ORCHESTRA -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #A78BFA; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #777777; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
     <h3 style="margin: 0 0 8px 0;">
-      <a href="https://github.com/Prezady/AI-JAIL-Orchestra" style="color: #A78BFA; text-decoration: none;">✨ AI-JAIL-ORCHESTRA</a>
+      <a href="https://github.com/Prezady/AI-JAIL-Orchestra" style="color: #BBBBBB; text-decoration: none;">✨ AI-JAIL-ORCHESTRA</a>
     </h3>
     <p style="color: #8b949e; margin: 0 0 12px 0;">Orquestrador de múltiplos agentes de IA em ambiente isolado – TDD, testes automatizados, pentests e desenvolvimento assistido.</p>
     <p style="margin: 0;">
@@ -134,13 +130,12 @@ Python developer focused on building **intelligent**, **automated**, and **scala
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
     </p>
-
   </div>
 
   <!-- BIT-TRACKER -->
-  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #FFE66D; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-left: 4px solid #999999; border-radius: 8px; padding: 16px; margin-bottom: 16px; text-align: left;">
     <h3 style="margin: 0 0 8px 0;">
-      <a href="https://github.com/Prezady/BIT-Tracker" style="color: #FFE66D; text-decoration: none;">✨ BIT-TRACKER</a>
+      <a href="https://github.com/Prezady/BIT-Tracker" style="color: #AAAAAA; text-decoration: none;">✨ BIT-TRACKER</a>
     </h3>
     <p style="color: #8b949e; margin: 0 0 12px 0;">Rastreador de carteiras Bitcoin – transações da blockchain salvas em markdown com tags para visualização e análise de relações via Obsidian.</p>
     <p style="margin: 0;">
@@ -152,7 +147,6 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 
 </div>
 
-
 ---
 
 ### 📜 Experience & Education Highlights
@@ -163,11 +157,9 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 - **Academic Study**  
   - Artificial Intelligence – Gran Faculdade (2026‑2028)  
   - Mechatronics Technician – ETEC Basilides de Godoy (thermal drone project)  
-  - Artificial Intelligence,Deep Learning, Python, SQL, HTML/CSS/JS – diversos cursos (mais de 400 horas somadas)
+  - Artificial Intelligence, Deep Learning, Python, SQL, HTML/CSS/JS – diversos cursos (mais de 400 horas somadas)
 
 ---
-
-
 
 ### 🧠 Intelligence Cycle
 
@@ -180,12 +172,6 @@ graph LR
     A --> D(📤 Dissemination<br/>Dashboards / Reports)
     D -.-> P
 ```
-
-
-
----
-
-
 
 ### 💡 Let's Connect!
 
