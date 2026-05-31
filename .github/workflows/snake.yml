@@ -9,7 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (with full history)
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -23,12 +23,25 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy to 'output' branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Configura o git para usar o token
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
-          git checkout --orphan output
+          
+          # Cria ou atualiza a branch output
+          git checkout -B output
+          
+          # Remove arquivos antigos e adiciona os novos
           rm -rf *
           cp -r ../dist/* .
+          
+          # Adiciona tudo ao commit
           git add -A
-          git commit -m "Update snake animation [skip ci]"
-          git push -f origin output
+          
+          # Cria o commit (se houver mudanças)
+          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
+          
+          # Envia para a branch output usando o token
+          git push -f https://x-access-token:${GITHUB_TOKEN}@github.com/Prezady/Prezady.git output
