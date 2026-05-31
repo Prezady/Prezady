@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligent+(ECO)Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1200&color=FF6B6B,4ECDC4,FFE66D,A78BFA&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Prezady;Python+Developer;AI+%26+AIoT+Developer;Intelligent+(ECO)Systems;STEM+Professional" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -87,10 +87,6 @@ Python developer focused on building **intelligent**, **automated**, and **scala
   </picture>
 </p>
 
-> ⚙️ **To activate the snake:**  
-> 1. Add the [snake workflow](https://github.com/Platane/snk) to `.github/workflows/snake.yml` in your profile repository.  
-> 2. Run it manually once from the **Actions** tab.  
-> 3. Enable **GitHub Pages** on branch `output` (root). The animation will appear above automatically.
 
 ---
 
