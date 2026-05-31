@@ -2,46 +2,39 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository (with full history)
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+    permissions:
+      contents: write
 
-      - name: Generate the snake SVG
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Gerar a cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: Prezady
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to 'output' branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publicar na branch output
         run: |
-          # Configura o git para usar o token
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Cria ou atualiza a branch output
+          # Cria ou atualiza a branch output a partir da branch atual
           git checkout -B output
           
-          # Remove arquivos antigos e adiciona os novos
-          rm -rf *
-          cp -r ../dist/* .
+          # Copia os arquivos gerados para a raiz
+          cp -r dist/* .
           
-          # Adiciona tudo ao commit
-          git add -A
-          
-          # Cria o commit (se houver mudanças)
-          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
-          
-          # Envia para a branch output usando o token
-          git push -f https://x-access-token:${GITHUB_TOKEN}@github.com/Prezady/Prezady.git output
+          # Commit e push forçado (sobregrava o histórico)
+          git add .
+          git commit -m "Atualiza animação da cobrinha" || echo "Nada para commitar"
+          git push -f origin output
