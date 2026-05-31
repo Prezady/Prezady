@@ -179,6 +179,6 @@ Estou aberto a colaborar em projetos de **IA, IoT, automação** ou **cibersegur
 Fale comigo pelo e-mail **seuemail@example.com** ou conecte-se no [LinkedIn](https://linkedin.com/in/seulinkedin).
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J4Z3N6ZzJ4ZzN6eG5zYzJ4ZzN6eG5zYzJ4ZzN6eG5zYzJ4ZzN6eCgZiLCJlcj12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt6KHxJTbC0nO2A/giphy.gif" width="100%" alt="Matrix Rain" style="border-radius: 8px;" />
+  
   <h1 style="position: relative; top: -120px; color: #00ff41; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #00ff41;">Thank You!</h1>
 </div>
