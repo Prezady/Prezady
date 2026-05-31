@@ -96,7 +96,7 @@ Python developer focused on building **intelligent**, **automated**, and **scala
 - **BMS Operations Technician & Python Developer** (Abr 2023 – 2026)  
   Desenvolvi plataforma interna de analytics, automatizei relatórios (redução de 32% no tempo), implementei detecção de falhas com ML (diagnósticos 3x mais rápidos) e integrei sistemas IoT/BMS.
 
-- **Formação**  
+- **Academic Study**  
   - Artificial Intelligence – Gran Faculdade (2026‑2028)  
   - Mechatronics Technician – ETEC Basilides de Godoy (thermal drone project)  
   - Artificial Intelligence,Deep Learning, Python, SQL, HTML/CSS/JS – diversos cursos (mais de 400 horas somadas)
