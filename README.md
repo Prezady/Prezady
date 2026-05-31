@@ -7,14 +7,14 @@
 <p align="center">
   <a href="https://linkedin.com/in/seulinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://seusite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/STEM-Professional-9B59B6?style=for-the-badge&logo=atom&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Python developer focused on building **intelligence**, **automated**, and **scalable** solutions. I bring together **AI**, **AIoT**, and **web automation** to deliver end-to-end platforms – from data collection to machine learning models and autonomous systems.
+Python developer focused on building **intelligent**, **automated**, and **scalable** solutions. I bring together **AI**, **AIoT**, and **web automation** to deliver end-to-end platforms – from data collection to machine learning models and autonomous systems.
 
 - 🔭 Currently working on: AI‑driven IoT analytics and smart building platforms  
 - 🌱 Deepening knowledge: Artificial Intelligence, embedded systems, and advanced ETL pipelines  
@@ -66,8 +66,6 @@ Python developer focused on building **intelligence**, **automated**, and **scal
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
-
-
 ---
 
 ### 🐍 Contribution Snake
@@ -80,17 +78,16 @@ Python developer focused on building **intelligence**, **automated**, and **scal
   </picture>
 </p>
 
-
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [EVT-Analytica](https://github.com/Prezady/evt-analytica) | Internal analytics platform for smart buildings – dashboards, KPI monitoring, predictive alarms | Python, Streamlit, Flask, SQL, Hugging Face |
-| [IoT-Data-Pipeline](https://github.com/Prezady/iot-pipeline) | ETL pipeline ingesting sensor data, applying ML anomaly detection, storing in MySQL | Python, Asyncio, TensorFlow, MySQL |
-| [JailBox-AI](https://github.com/Prezady/jailbox-ai) | Sandbox environment for safely testing and evaluating AI models (AI‑Jail concept) | Python, Docker, OpenAI API |
-| [Intelligence-Cycle-Tools](https://github.com/Prezady/intel-cycle) | Collection of OSINT/GEOINT helpers for the intelligence cycle | Python, BeautifulSoup, APIs |
+| [Analytica](https://github.com/Prezady/analytica) | Plataforma web interna para gestão predial (BMS) – dashboards, machine learning, motor de busca, ETL de sensores e democratização dos dados para especialistas. | Python, Streamlit, Flask, SQL, TensorFlow |
+| [NovaKar](https://github.com/Prezady/NovaKar) | ERP local para concessionárias – controle de estoque, valores, histórico completo dos veículos, documentações e gestão de vendas. | Python, Asyncio, MySQL, Flask |
+| [AI-JAIL-Orchestra](https://github.com/Prezady/AI-JAIL-Orchestra) | Orquestrador de múltiplos agentes de IA em ambiente isolado – TDD, testes automatizados, pentests e desenvolvimento assistido. | Python, Docker, OpenAI API |
+| [BIT-Tracker](https://github.com/Prezady/BIT-Tracker) | Rastreador de carteiras Bitcoin – transações da blockchain salvas em markdown com tags para visualização e análise de relações via Obsidian. | Python, Blockchain API, Obsidian |
 
 ---
 
@@ -99,25 +96,25 @@ Python developer focused on building **intelligence**, **automated**, and **scal
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-*(Set up with [WakaTime](https://wakatime.com/) and paste your badge URL here to show live coding stats.)*
+*(Configure com [WakaTime](https://wakatime.com/) para ver estatísticas ao vivo.)*
 
 ---
 
 ### 📜 Experience & Education Highlights
 
-- **BMS Operations Technician & Python Developer** (Apr 2023 – Present)  
-  Developed internal analytics platform, automated reporting (32% time reduction), deployed ML-driven fault prediction (3x faster diagnostics), and integrated IoT/BMS systems.
+- **BMS Operations Technician & Python Developer** (Abr 2023 – Presente)  
+  Desenvolvi plataforma interna de analytics, automatizei relatórios (redução de 32% no tempo), implementei detecção de falhas com ML (diagnósticos 3x mais rápidos) e integrei sistemas IoT/BMS.
 
-- **Education**  
-  - Artificial Intelligence – Gran Faculdade (2026‑2028)  
-  - Mechatronics Technician – ETEC Basilides de Godoy (thermal drone project)  
-  - Deep Learning, Ethical Hacking, Python, HTML/CSS/JS – multiple courses (400+ hours)
+- **Formação**  
+  - Inteligência Artificial – Gran Faculdade (2026‑2028)  
+  - Técnico em Mecatrônica – ETEC Basilides de Godoy (projeto de drone térmico)  
+  - Deep Learning, Ethical Hacking, Python, HTML/CSS/JS – diversos cursos (mais de 400 horas)
 
 ---
 
 ### 💡 Let's Connect!
 
-I’m open to collaborating on **AI, IoT, automation** or **cybersecurity‑related** projects.  
-Reach me at **[seu-email]** or connect on [LinkedIn](https://linkedin.com/in/seulinkedin).
+Estou aberto a colaborar em projetos de **IA, IoT, automação** ou **cibersegurança**.  
+Fale comigo pelo e-mail **seuemail@example.com** ou conecte-se no [LinkedIn](https://linkedin.com/in/seulinkedin).
 
 ---
